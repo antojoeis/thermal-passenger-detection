@@ -1,0 +1,36 @@
+item{
+	id:1
+	name:'person'
+}
+item{
+	id:2
+	name:'charger'
+}
+item{
+	id:3
+	name:'cpu'
+}
+item{
+	id:4
+	name:'light'
+}
+item{
+	id:5
+	name:'hand'
+}
+item{
+	id:6
+	name:'monitor'
+}
+item{
+	id:7
+	name:'chicken noodle soup'
+}
+item{
+	id:8
+	name:'tomato soup'
+}
+item{
+	id:9
+	name:'mobile'
+}
